@@ -1,4 +1,4 @@
-woutersshit()
+int woutersshit()
 {
     print(beenham);
 }
